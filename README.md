@@ -63,8 +63,8 @@ void loop()
     delay(sensorValue);
 }
 ```
-#Name: AMIRTHAVARSHINI V
-#Register no: 212223040014
+# Name: AMIRTHAVARSHINI V
+# Register no: 212223040014
 
 ## CIRCUIT DIAGRAM:
 ![369741755-07081667-8a06-4ead-8bc8-fd7b0530c29e](https://github.com/user-attachments/assets/d838b743-92ac-4b70-9f63-0dd90f9dc460)
